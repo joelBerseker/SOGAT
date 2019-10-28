@@ -1,9 +1,0 @@
-<?php
-	include("includes/header.php")
-?>
-<?php 
-    include("producto/crud_product/add.php")
-?>
-<?php
-	include("includes/footer.php")
-?>
